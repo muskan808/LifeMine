@@ -1,0 +1,18 @@
+{
+"users": [
+{
+"id": "1",
+"name": "John Doe",
+"username": "johnd",
+"email": "john@example.com",
+"phone": "+911234567890",
+"website": "https://example.com",
+"isActive": true,
+"skills": ["React","Node"],
+"availableSlots": ["2025-12-01T10:00:00Z"],
+"address": { "street": "123 Main St", "city": "Delhi", "zipcode": "110001" },
+"company": { "name": "TechCorp" },
+"role": "Admin"
+}
+]
+}
